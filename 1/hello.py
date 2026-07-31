@@ -52,3 +52,6 @@ while i > 0:
         break
     if i % 2 == 0:
         continue
+
+
+print("The loop has ended.")
